@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Ola sou Fabricio Barbosa, tenho 23 anos e sou natural do Mato Grosso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou estudante de tecnologia em processo de evolucao. Visualize meu perfil profissional no [Linkedin.](https://www.linkedin.com/in/fabricio-dos-santos-barbosa-mayer-3121b3234/)
+Hello, I am Fabrício Barbosa, I am 23 years old and I am from Mato Grosso. Currently, I am studying Analysis and Development of Systems at Uniasselvi. I am a technology student in the process of evolution. View my professional profile on [Linkedin.](https://www.linkedin.com/in/fabricio-dos-santos-barbosa-mayer-3121b3234/)
 
 <p align="left">
     <a href="https://github.com/Fabriciobarbosa-1?tab=repositories&sort=stargazers">
@@ -23,7 +23,7 @@ Ola sou Fabricio Barbosa, tenho 23 anos e sou natural do Mato Grosso. Atualmente
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -45,7 +45,7 @@ Ola sou Fabricio Barbosa, tenho 23 anos e sou natural do Mato Grosso. Atualmente
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -53,14 +53,14 @@ Ola sou Fabricio Barbosa, tenho 23 anos e sou natural do Mato Grosso. Atualmente
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabriciobarbosa-1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Fabriciobarbosa-1&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciobarbosa-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciobarbosa-1&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
