@@ -59,7 +59,7 @@ Hello, I am Fabrício Barbosa, I am 23 years old and I am from Mato Grosso. Curr
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciobarbosa-1&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
