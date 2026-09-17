@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fabricio Barbosa
 
-**`Data Analyst`**
+**`Um Programador em Desenvolvimento`**
 
 Olá! Meu nome é **Fabricio Barbosa**, tenho 25 anos e sou de **Mato Grosso, Brasil**.
 
