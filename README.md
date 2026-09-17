@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Hello, I am Fabricio Barbosa, I am 23 years old and I am from Mato Grosso. Currently, I am studying Analysis and Development of Systems at Uniasselvi. I am a technology student in the process of evolution. View my professional profile on [Linkedin.](https://www.linkedin.com/in/fabricio-dos-santos-barbosa-mayer-3121b3234/)
+Hello, I am Fabricio Barbosa, I am 25 years old and I am from Mato Grosso. Currently, I am studying Analysis and Development of Systems at Uniasselvi. I am a technology student in the process of evolution. View my professional profile on [Linkedin.](https://www.linkedin.com/in/fabricio-dos-santos-barbosa-mayer-3121b3234/)
 
 <p align="left">
     <a href="https://github.com/Fabriciobarbosa-1?tab=repositories&sort=stargazers">
@@ -64,3 +64,16 @@ Hello, I am Fabricio Barbosa, I am 23 years old and I am from Mato Grosso. Curre
   />
 
 </p>
+
+</br></br></br></br>    
+
+---
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabriciobarbosa-1/Fabriciobarbosa-1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabriciobarbosa-1/Fabriciobarbosa-1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fabriciobarbosa-1/Fabriciobarbosa-1/output/pacman-contribution-graph.svg">
+</picture>
+
+---
