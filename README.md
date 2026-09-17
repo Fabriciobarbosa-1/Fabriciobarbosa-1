@@ -2,11 +2,19 @@
 
 **`Um Programador em Desenvolvimento`**
 
+<img 
+  align="right"
+  width="200"
+  src="https://github.com/user-attachments/assets/29c4f2f1-f99d-47d5-b4e9-4baf4afe5ed1"
+  alt="Imagem"
+/>
+
 Olá! Meu nome é **Fabricio Barbosa**, tenho 25 anos e sou de **Mato Grosso, Brasil**.
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNIASSELVI** e estou construindo minha trajetória profissional na área de tecnologia. Também sou um GAMER nas horas vagas. Valorant, COD, Minecraft, FIFA e um bom modo história ou um cooperativo assim são os finais de semana quando há um tempo livre.<P>
 
- Ao longo da minha jornada, venho colocando meus conhecimentos em prática por meio do desenvolvimento de **projetos e soluções voltadas para problemas reais**. Tenho experiência com projetos envolvendo **desenvolvimento de sistemas, interfaces web, bancos de dados e criação de soluções para gerenciamento de serviços**, buscando sempre unir organização, funcionalidade e uma boa experiência para o usuário. Durante meus projetos, venho trabalhando e aprimorando conhecimentos em tecnologias como **HTML, CSS, JavaScript, TypeScript, React, Python, C#, MySQL, PostgreSQL e Docker**, além de estudar boas práticas de desenvolvimento e organização de sistemas. Cada projeto representa uma oportunidade de evoluir como desenvolvedor, enfrentar novos desafios e transformar o conhecimento adquirido durante minha formação em **soluções funcionais e eficientes**.<p>
+ Ao longo da minha jornada, venho colocando meus conhecimentos em prática por meio do desenvolvimento de **projetos e soluções voltadas para problemas reais**. Tenho experiência com projetos envolvendo **desenvolvimento de sistemas, interfaces web, bancos de dados e criação de soluções para gerenciamento de serviços**, buscando sempre unir organização, funcionalidade e uma boa experiência para o usuário. Durante meus projetos, venho trabalhando e aprimorando conhecimentos em tecnologias como **HTML, CSS, JavaScript, TypeScript, React, Python, C#, MySQL, PostgreSQL e Docker**, além de estudar boas práticas de desenvolvimento e organização de sistemas. Cada projeto representa uma oportunidade de evoluir como desenvolvedor, enfrentar
+novos desafios e transformar o conhecimento adquirido durante minha formação em **soluções funcionais e eficientes**.<p>
 
 🔗 Conheça também meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/fabricio-dos-santos-barbosa-mayer-3121b3234/).
 
